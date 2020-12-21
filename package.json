@@ -1,0 +1,16 @@
+{
+  "name": "prt",
+  "version": "1.0.0",
+  "description": "simple wev app for 9PKS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index",
+    "start": "node index"
+  },
+  "author": "foult080",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
